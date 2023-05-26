@@ -10,6 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="ANGULAR" height="30" width="40" src="https://lh3.googleusercontent.com/kfc3ZNsJ-4bOwfwAIqXDsBL64bZVQeEfqoXTl59NMI8legyNElAym2SMXJ2ImT4B1HYtSCEO5sfqq8OLVF9htbPCpSwvFVSKbeN1BTx-yJQjHt2k5zk4qCmndSelwtNBAvbd9gpXOieCPY7rrw">
 </div>
  
  <br>
