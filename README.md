@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Will Dev 😁
+## Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/willdev-crypto">
@@ -16,7 +16,7 @@
  
  <br>
  
-  ### OS BILHÕES SÃO FEITOS DE CENTAVOS !
+  ### OS BILHÕES SiM , SÃO FEITOS DE CENTAVOS !
  
 <div> 
   <a href="https://www.youtube.com/channel/UCXV1TjQcfYC-OG5ACt44YhQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
