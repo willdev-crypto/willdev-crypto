@@ -24,5 +24,5 @@
   <a href = "mailto:wil.dgl@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/william-oliveira-90a7a7162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  <img align="center" height="500"  src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif?raw=true">
+  <img align="center" height="500"  src="https://br.pinterest.com/pin/648659152579864805/">
 </div>
