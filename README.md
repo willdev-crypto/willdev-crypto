@@ -19,7 +19,7 @@
  
   ### A GRANDIOSIDADE DOS BILHÕES É TECIDA A PARTIR DA HUMILDADE INTRÍNSECA DOS CENTAVOS..
 <div> 
- 
+  <br>
  
   <img align="center" height="1000"  src="https://media2.giphy.com/media/PclfRPHc7yjX5tAI3A/giphy.gif?cid=ecf05e47mqmo3zssg4ql0v7ipw2p6qv6zjsjq4whqvoz9deh&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
