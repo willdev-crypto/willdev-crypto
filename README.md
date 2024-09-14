@@ -1,4 +1,4 @@
-## Bem-vindo(a)  😁
+## Bem-vindos(as)  😁
 
  <div>
    <a href="https://github.com/willdev-crypto">
