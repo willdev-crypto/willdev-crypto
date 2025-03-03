@@ -12,7 +12,8 @@
 <div> 
   <br>
  
-  <img align="center" height="1000"  src="https://media2.giphy.com/media/PclfRPHc7yjX5tAI3A/giphy.gif?cid=ecf05e47mqmo3zssg4ql0v7ipw2p6qv6zjsjq4whqvoz9deh&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img src="https://media2.giphy.com/media/PclfRPHc7yjX5tAI3A/giphy.gif?cid=ecf05e47mqmo3zssg4ql0v7ipw2p6qv6zjsjq4whqvoz9deh&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400">
+
   <br>
 
    <a href="https://www.youtube.com/channel/UCXV1TjQcfYC-OG5ACt44YhQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
